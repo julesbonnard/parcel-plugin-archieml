@@ -1,0 +1,15 @@
+{
+  "name": "parcel-plugin-archieml",
+  "version": "1.0.0",
+  "description": "A plugin to parse txt file as ArchieML with parcel",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "JBONNARD",
+  "license": "ISC",
+  "dependencies": {
+    "archieml": "^0.4.2",
+    "parcel-bundler": "parcel-bundler/parcel#vue"
+  }
+}
