@@ -1,7 +1,5 @@
 # Parcel plugin for archieML
 
-*Be careful : this plugin use the Vue version of Parcel-bundler*
-
 ## Usage
 
 ```
