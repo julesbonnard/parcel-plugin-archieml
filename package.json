@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-archieml",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A plugin to parse txt file as ArchieML with parcel",
   "main": "index.js",
   "homepage": "https://github.com/julesbonnard/parcel-plugin-archieml",
