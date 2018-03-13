@@ -4,9 +4,9 @@
   "description": "A plugin to parse txt file as ArchieML with parcel",
   "main": "index.js",
   "homepage": "https://github.com/julesbonnard/parcel-plugin-archieml",
-  "repository" : { 
-    "type" : "git", 
-    "url" : "https://github.com/julesbonnard/parcel-plugin-archieml.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julesbonnard/parcel-plugin-archieml.git"
   },
   "scripts": {
     "test": "mocha"
@@ -17,6 +17,6 @@
     "archieml": "^0.4.2"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.5.0"
+    "parcel-bundler": "^1.6.2"
   }
 }
